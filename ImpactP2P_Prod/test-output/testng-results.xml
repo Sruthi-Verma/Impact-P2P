@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="21" passed="16" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-09T10:04:07 IST" name="Default suite" finished-at="2021-12-09T10:15:02 IST" duration-ms="655669">
+    <groups>
+    </groups>
+    <test started-at="2021-12-09T10:04:07 IST" name="Default test" finished-at="2021-12-09T10:15:02 IST" duration-ms="655669">
+      <class name="com.impactp2p.testcases.SanityPageTest">
+        <test-method is-config="true" signature="getReports()[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:07 IST" name="getReports" finished-at="2021-12-09T10:04:07 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReports -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:07 IST" name="startTest" finished-at="2021-12-09T10:04:18 IST" duration-ms="11305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.SignupIndividualLender()[pri:1, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="SignupIndividualLender()[pri:1, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:18 IST" name="SignupIndividualLender" finished-at="2021-12-09T10:04:47 IST" duration-ms="29007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupIndividualLender -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:47 IST" name="getStatus" finished-at="2021-12-09T10:04:47 IST" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SignupIndividualLender status=SUCCESS method=SanityPageTest.SignupIndividualLender()[pri:1, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:47 IST" name="startTest" finished-at="2021-12-09T10:04:54 IST" duration-ms="6986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.SigninWithValidCredentials()[pri:2, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="SigninWithValidCredentials()[pri:2, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:04:54 IST" name="SigninWithValidCredentials" finished-at="2021-12-09T10:05:02 IST" duration-ms="7902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninWithValidCredentials -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:02 IST" name="getStatus" finished-at="2021-12-09T10:05:03 IST" duration-ms="203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SigninWithValidCredentials status=SUCCESS method=SanityPageTest.SigninWithValidCredentials()[pri:2, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:03 IST" name="startTest" finished-at="2021-12-09T10:05:09 IST" duration-ms="6413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.OnBehalfLenderLogin()[pri:3, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="OnBehalfLenderLogin()[pri:3, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:09 IST" name="OnBehalfLenderLogin" finished-at="2021-12-09T10:05:33 IST" duration-ms="23668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnBehalfLenderLogin -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:33 IST" name="getStatus" finished-at="2021-12-09T10:05:33 IST" duration-ms="207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OnBehalfLenderLogin status=SUCCESS method=SanityPageTest.OnBehalfLenderLogin()[pri:3, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:33 IST" name="startTest" finished-at="2021-12-09T10:05:39 IST" duration-ms="6452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.MinimumHoldingPeriod()[pri:4, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="MinimumHoldingPeriod()[pri:4, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:05:39 IST" name="MinimumHoldingPeriod" finished-at="2021-12-09T10:06:25 IST" duration-ms="46086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MinimumHoldingPeriod -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:06:25 IST" name="getStatus" finished-at="2021-12-09T10:06:26 IST" duration-ms="209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MinimumHoldingPeriod status=SUCCESS method=SanityPageTest.MinimumHoldingPeriod()[pri:4, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:06:26 IST" name="startTest" finished-at="2021-12-09T10:06:30 IST" duration-ms="4473" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.AddMoneyToWallet()[pri:5, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="AddMoneyToWallet()[pri:5, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:06:30 IST" name="AddMoneyToWallet" finished-at="2021-12-09T10:07:03 IST" duration-ms="33395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMoneyToWallet -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:03 IST" name="getStatus" finished-at="2021-12-09T10:07:04 IST" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddMoneyToWallet status=SUCCESS method=SanityPageTest.AddMoneyToWallet()[pri:5, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:04 IST" name="startTest" finished-at="2021-12-09T10:07:10 IST" duration-ms="6621" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.FpwmMyprofileFail()[pri:6, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="FpwmMyprofileFail()[pri:6, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:10 IST" name="FpwmMyprofileFail" finished-at="2021-12-09T10:07:24 IST" duration-ms="13349" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.impactp2p.testcases.SanityPageTest.FpwmMyprofileFail(SanityPageTest.java:101)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FpwmMyprofileFail -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:24 IST" name="getStatus" finished-at="2021-12-09T10:07:24 IST" duration-ms="623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FpwmMyprofileFail status=FAILURE method=SanityPageTest.FpwmMyprofileFail()[pri:6, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:24 IST" name="startTest" finished-at="2021-12-09T10:07:31 IST" duration-ms="6749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.BankDetails()[pri:7, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="BankDetails()[pri:7, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:31 IST" name="BankDetails" finished-at="2021-12-09T10:07:49 IST" duration-ms="18236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankDetails -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:49 IST" name="getStatus" finished-at="2021-12-09T10:07:49 IST" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BankDetails status=SUCCESS method=SanityPageTest.BankDetails()[pri:7, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:49 IST" name="startTest" finished-at="2021-12-09T10:07:56 IST" duration-ms="6171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.OnBehalfLenderLoginInWFAddFunds()[pri:9, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="OnBehalfLenderLoginInWFAddFunds()[pri:9, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:07:56 IST" name="OnBehalfLenderLoginInWFAddFunds" finished-at="2021-12-09T10:08:25 IST" duration-ms="29117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnBehalfLenderLoginInWFAddFunds -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:08:25 IST" name="getStatus" finished-at="2021-12-09T10:08:25 IST" duration-ms="154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OnBehalfLenderLoginInWFAddFunds status=SUCCESS method=SanityPageTest.OnBehalfLenderLoginInWFAddFunds()[pri:9, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:08:25 IST" name="startTest" finished-at="2021-12-09T10:08:31 IST" duration-ms="5842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.StartInvestment()[pri:10, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="StartInvestment()[pri:10, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:08:31 IST" name="StartInvestment" finished-at="2021-12-09T10:09:05 IST" duration-ms="34475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartInvestment -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:05 IST" name="getStatus" finished-at="2021-12-09T10:09:05 IST" duration-ms="157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=StartInvestment status=SUCCESS method=SanityPageTest.StartInvestment()[pri:10, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:05 IST" name="startTest" finished-at="2021-12-09T10:09:11 IST" duration-ms="5601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.DownLoadsAndEsign()[pri:11, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="DownLoadsAndEsign()[pri:11, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:11 IST" name="DownLoadsAndEsign" finished-at="2021-12-09T10:09:49 IST" duration-ms="37770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownLoadsAndEsign -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:49 IST" name="getStatus" finished-at="2021-12-09T10:09:49 IST" duration-ms="153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DownLoadsAndEsign status=SUCCESS method=SanityPageTest.DownLoadsAndEsign()[pri:11, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:49 IST" name="startTest" finished-at="2021-12-09T10:09:55 IST" duration-ms="5920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.OnBehalfWalletRecharge()[pri:12, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="OnBehalfWalletRecharge()[pri:12, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:09:55 IST" name="OnBehalfWalletRecharge" finished-at="2021-12-09T10:10:21 IST" duration-ms="26162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnBehalfWalletRecharge -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:10:21 IST" name="getStatus" finished-at="2021-12-09T10:10:21 IST" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OnBehalfWalletRecharge status=SUCCESS method=SanityPageTest.OnBehalfWalletRecharge()[pri:12, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:10:21 IST" name="startTest" finished-at="2021-12-09T10:10:26 IST" duration-ms="4912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.InvestNow()[pri:13, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="InvestNow()[pri:13, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:10:26 IST" name="InvestNow" finished-at="2021-12-09T10:11:09 IST" duration-ms="43470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvestNow -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:09 IST" name="getStatus" finished-at="2021-12-09T10:11:10 IST" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvestNow status=SUCCESS method=SanityPageTest.InvestNow()[pri:13, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:10 IST" name="startTest" finished-at="2021-12-09T10:11:14 IST" duration-ms="4186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.DownloadsCommisionOverview()[pri:14, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="DownloadsCommisionOverview()[pri:14, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:14 IST" name="DownloadsCommisionOverview" finished-at="2021-12-09T10:11:36 IST" duration-ms="22234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadsCommisionOverview -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:36 IST" name="getStatus" finished-at="2021-12-09T10:11:36 IST" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DownloadsCommisionOverview status=SUCCESS method=SanityPageTest.DownloadsCommisionOverview()[pri:14, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:36 IST" name="startTest" finished-at="2021-12-09T10:11:42 IST" duration-ms="6192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.LoanDetailsCommisionRecords()[pri:15, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="LoanDetailsCommisionRecords()[pri:15, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:11:42 IST" name="LoanDetailsCommisionRecords" finished-at="2021-12-09T10:12:25 IST" duration-ms="42811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanDetailsCommisionRecords -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:12:25 IST" name="getStatus" finished-at="2021-12-09T10:12:25 IST" duration-ms="155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoanDetailsCommisionRecords status=SUCCESS method=SanityPageTest.LoanDetailsCommisionRecords()[pri:15, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:12:25 IST" name="startTest" finished-at="2021-12-09T10:13:12 IST" duration-ms="47020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.BorrowerMyProfileFail()[pri:17, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="BorrowerMyProfileFail()[pri:17, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:12 IST" name="BorrowerMyProfileFail" finished-at="2021-12-09T10:13:21 IST" duration-ms="8240" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.impactp2p.testcases.SanityPageTest.BorrowerMyProfileFail(SanityPageTest.java:205)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BorrowerMyProfileFail -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:21 IST" name="getStatus" finished-at="2021-12-09T10:13:21 IST" duration-ms="403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BorrowerMyProfileFail status=FAILURE method=SanityPageTest.BorrowerMyProfileFail()[pri:17, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:21 IST" name="startTest" finished-at="2021-12-09T10:13:28 IST" duration-ms="6779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.BorrowerMyLoansBackFail()[pri:18, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="BorrowerMyLoansBackFail()[pri:18, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:28 IST" name="BorrowerMyLoansBackFail" finished-at="2021-12-09T10:13:39 IST" duration-ms="11674" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Next']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-MEO8RC5', ip: '10.13.4.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\Thinkpad\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62132}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 45686fd24b5792e92c60b3a3022f1bfa
+*** Element info: {Using=xpath, value=//*[text()='Next']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Next']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-MEO8RC5', ip: '10.13.4.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\Thinkpad\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62132}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 45686fd24b5792e92c60b3a3022f1bfa
+*** Element info: {Using=xpath, value=//*[text()='Next']}
+at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:190)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:124)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:577)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:328)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:446)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:320)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy14.isDisplayed(Unknown Source)
+at com.impactp2p.pages.Sanitypage.BorrowerMyLoansBackFail(Sanitypage.java:1242)
+at com.impactp2p.testcases.SanityPageTest.BorrowerMyLoansBackFail(SanityPageTest.java:212)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BorrowerMyLoansBackFail -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:39 IST" name="getStatus" finished-at="2021-12-09T10:13:40 IST" duration-ms="406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BorrowerMyLoansBackFail status=FAILURE method=SanityPageTest.BorrowerMyLoansBackFail()[pri:18, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:40 IST" name="startTest" finished-at="2021-12-09T10:13:44 IST" duration-ms="3832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.LenderLoginAddFunds()[pri:19, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="LenderLoginAddFunds()[pri:19, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:44 IST" name="LenderLoginAddFunds" finished-at="2021-12-09T10:13:56 IST" duration-ms="12363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LenderLoginAddFunds -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:56 IST" name="getStatus" finished-at="2021-12-09T10:13:56 IST" duration-ms="168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LenderLoginAddFunds status=SUCCESS method=SanityPageTest.LenderLoginAddFunds()[pri:19, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:13:56 IST" name="startTest" finished-at="2021-12-09T10:14:02 IST" duration-ms="5959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.LenderLoginStartInvesting()[pri:20, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="LenderLoginStartInvesting()[pri:20, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:14:02 IST" name="LenderLoginStartInvesting" finished-at="2021-12-09T10:14:26 IST" duration-ms="24189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LenderLoginStartInvesting -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:14:26 IST" name="getStatus" finished-at="2021-12-09T10:14:27 IST" duration-ms="139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LenderLoginStartInvesting status=SUCCESS method=SanityPageTest.LenderLoginStartInvesting()[pri:20, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="startTest(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:14:27 IST" name="startTest" finished-at="2021-12-09T10:14:32 IST" duration-ms="5928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SanityPageTest.LenderLoginDownloads()[pri:21, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="LenderLoginDownloads()[pri:21, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:14:32 IST" name="LenderLoginDownloads" finished-at="2021-12-09T10:15:02 IST" duration-ms="29529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LenderLoginDownloads -->
+        <test-method is-config="true" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:15:02 IST" name="getStatus" finished-at="2021-12-09T10:15:02 IST" duration-ms="170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LenderLoginDownloads status=SUCCESS method=SanityPageTest.LenderLoginDownloads()[pri:21, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.impactp2p.testcases.SanityPageTest@55b7a4e0]" started-at="2021-12-09T10:15:02 IST" name="endTest" finished-at="2021-12-09T10:15:02 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.impactp2p.testcases.SanityPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
